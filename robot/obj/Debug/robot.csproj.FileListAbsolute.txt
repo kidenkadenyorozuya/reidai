@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\robot\robot\bin\Debug\robot.exe.config
+C:\Users\user\source\repos\robot\robot\bin\Debug\robot.exe
+C:\Users\user\source\repos\robot\robot\bin\Debug\robot.pdb
+C:\Users\user\source\repos\robot\robot\bin\Debug\csgl-opengl.dll
+C:\Users\user\source\repos\robot\robot\bin\Debug\csgl-opengl.pdb
+C:\Users\user\source\repos\robot\robot\obj\Debug\robot.csprojAssemblyReference.cache
+C:\Users\user\source\repos\robot\robot\obj\Debug\robot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\robot\robot\obj\Debug\robot.csproj.CopyComplete
+C:\Users\user\source\repos\robot\robot\obj\Debug\robot.exe
+C:\Users\user\source\repos\robot\robot\obj\Debug\robot.pdb
